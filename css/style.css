@@ -8,5 +8,15 @@
 }
 
 .margin{
+    padding-bottom: 50px;
     padding-top: 30px;
+}
+
+.parceiros{
+    background-color: lightskyblue;
+}
+
+.bg-footer{
+    background-color: black;
+    color: wheat;
 }
